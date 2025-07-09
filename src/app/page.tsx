@@ -17,7 +17,7 @@ function Header() {
             src="images/logo_anjanatrans.png"
             alt="AnjanaTrans Logo Placeholder"
             data-ai-hint="truck logo"
-            width={80}
+            width={160}
             height={80}
             className="rounded-full"
           />
