@@ -14,7 +14,7 @@ function Header() {
       <div className="container mx-auto flex items-center justify-between gap-4">
         <Link href="/" className="flex items-center gap-4">
           <Image
-            src="https://placehold.co/80x80/195291/FFC72C.png"
+            src="images/logo_anjanatrans.png"
             alt="AnjanaTrans Logo Placeholder"
             data-ai-hint="truck logo"
             width={60}
