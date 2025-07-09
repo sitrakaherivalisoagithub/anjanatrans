@@ -17,8 +17,8 @@ function Header() {
             src="images/logo_anjanatrans.png"
             alt="AnjanaTrans Logo Placeholder"
             data-ai-hint="truck logo"
-            width={60}
-            height={60}
+            width={80}
+            height={80}
             className="rounded-full"
           />
           <span className="hidden sm:inline text-2xl md:text-3xl font-bold font-headline text-primary">
